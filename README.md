@@ -6,7 +6,7 @@ One of the challenges associated with monitoring and alerting is to filter out n
 In his blog post [Operationalizing your PostgreSQL database health checks using SQL Notebooks](https://azure.microsoft.com/en-us/blog/operationalizing-your-database-health-checks-using-sql-notebooks/), Parikshit Savjani describes a great way to [using notebooks in Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/sql-notebooks?view=sql-server-2017) to operationalize PostgreSQL health checks. If you have started with basic health checks in your notebook, the exercise of extending your setup with the regressed queries scenario will rather be easy for you.
  
 ## Getting started
-* Install [Azure Data Studio]()
+* Install [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017)
 * Clone this repo or simply copy the notebook and the requirements.txt file into a local folder of your choice
 * Open the folder in Azure Data Studio [CTRL + K CTRL + O]
 * [Configure](https://docs.microsoft.com/en-us/sql/azure-data-studio/sql-notebooks?view=sql-server-2017#manage-packages) local Python kernel for Notebooks by switching the kernel to Python 3.
