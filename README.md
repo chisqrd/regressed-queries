@@ -21,7 +21,7 @@ You need to ensure below server settings for data collection to start.
 * Set pg_qs.query_capture_mode to top or all
 * Set pgms_wait_sampling.query_capture_mode to all
  
-<b>Please note that the supported versions are 9.6 and above
+<b>Please note that the supported versions are 9.6 and above</b>
 
 ## Install required libraries
 * Click on 'Install Packages' at the top of the notebook
